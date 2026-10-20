@@ -25,7 +25,7 @@ A beginner-friendly command-line expense tracker built using Python.
 3. Open the project folder in your terminal.
 4. Run:
 
-   `python p2.py`
+   `python p3.py`
 
 ## Future Improvements
 
